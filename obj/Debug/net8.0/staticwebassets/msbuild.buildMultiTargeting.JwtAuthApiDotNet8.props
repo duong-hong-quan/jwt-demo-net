@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/JwtAuthApiDotNet8.props" />
-</Project>
